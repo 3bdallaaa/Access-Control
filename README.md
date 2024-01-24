@@ -6,3 +6,5 @@
 -The program starts in SLEEP MODE and there is an activation button below.   
 -TO the right-down corner there is a timer, the timer gets reset after each key press, if inactive for 10 sec, it goes back to SLEEP MODE   
 -The "#" used as Enter, while "*" used as Clear
+
+This project uses STM32F103C8 arm
